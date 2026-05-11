@@ -1,0 +1,79 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"196.85\" height=\"629.92\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 196.85,
+    "h": 629.92,
+    "aspect": "fixed",
+    "title": "Trunking"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"5.684341886080802e-14\" width=\"98.425\" height=\"629.92\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 98.425,
+    "h": 629.92,
+    "aspect": "fixed",
+    "title": "Conduit"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.3642420526593924e-12\" y=\"5.684341886080802e-14\" width=\"78.74\" height=\"629.92\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 78.74,
+    "h": 629.92,
+    "aspect": "fixed",
+    "title": "Conduit S"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;fillStyle=zigzag-line;fillColor=#535353;fontColor=#333333;strokeColor=#666666;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"5.684341886080802e-14\" width=\"98.425\" height=\"629.92\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 98.425,
+    "h": 629.92,
+    "aspect": "fixed",
+    "title": "Flex Conduit"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;fillStyle=zigzag-line;fillColor=#535353;fontColor=#333333;strokeColor=#666666;glass=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"5.684341886080802e-14\" width=\"59.055\" height=\"629.92\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 59.055,
+    "h": 629.92,
+    "aspect": "fixed",
+    "title": "Flex Conduit S"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-9.094947017729282e-13\" y=\"1.8189894035458565e-12\" width=\"452.755\" height=\"236.10999999999999\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"452.755\" height=\"98.425\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;rotation=-90;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"157\" y=\"118\" width=\"137.795\" height=\"98.425\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 452.755,
+    "h": 236.10999999999999,
+    "aspect": "fixed",
+    "title": "T Tube"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-9.094947017729282e-13\" y=\"1.8189894035458565e-12\" width=\"452.7550000000001\" height=\"236.11000000000013\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"52.67\" width=\"346.45599999999996\" height=\"98.425\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;rotation=-90;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"157\" y=\"118\" width=\"137.795\" height=\"98.425\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 452.7550000000001,
+    "h": 236.11000000000013,
+    "aspect": "fixed",
+    "title": "T Tube S"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;direction=south;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" y=\"9.094947017729282e-13\" width=\"295.27499999999986\" height=\"295.7555\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.48050000000000637\" y=\"0.5195000000001073\" width=\"295.275\" height=\"110.23599999999999\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;rotation=90;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"-92.5195\" y=\"92.51950000000011\" width=\"295.275\" height=\"110.23599999999999\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 295.27499999999986,
+    "h": 295.7555,
+    "aspect": "fixed",
+    "title": "L Tube"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;direction=south;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"-1.1368683772161603e-13\" y=\"9.094947017729282e-13\" width=\"295.27499999999986\" height=\"295.7555\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.48050000000000637\" y=\"0.5195000000001073\" width=\"240.15699999999998\" height=\"90.551\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;rotation=90;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"-74.75949999999999\" y=\"76.2595000000001\" width=\"240.15699999999998\" height=\"90.551\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 295.27499999999986,
+    "h": 295.7555,
+    "aspect": "fixed",
+    "title": "L Tube S"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-9.094947017729282e-13\" y=\"2.2737367544323206e-13\" width=\"165.35399999999998\" height=\"110.23599999999999\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 165.35399999999998,
+    "h": 110.23599999999999,
+    "aspect": "fixed",
+    "title": "Connector"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;spacingBottom=-1.9685;labelBackgroundColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"-9.094947017729282e-13\" y=\"2.2737367544323206e-13\" width=\"149.606\" height=\"86.61399999999999\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 149.606,
+    "h": 86.61399999999998,
+    "aspect": "fixed",
+    "title": "Connector S"
+  }
+]</mxlibrary>
